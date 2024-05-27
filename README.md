@@ -20,6 +20,4 @@ for i in range(N_BOXES):
 
 The most elegant solution is to use the value of i to compute the left_x of the current box.
 
-Once you're done, push the "Check Correct" button.
-
 As an extension, change CANVAS_HEIGHT to be 400 and see if you can fill the entire canvas with boxes to make a 5x5 grid of squares!
